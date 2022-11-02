@@ -1,0 +1,14 @@
+.card {
+    padding: 20px;
+    margin-left: 100px;
+}
+
+.pokemon-title {
+    cursor: pointer;
+}
+
+#observer {
+    width: 10px;
+    height: 10px;
+    background-color: red;
+}
